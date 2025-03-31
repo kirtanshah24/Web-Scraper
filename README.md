@@ -17,6 +17,15 @@ A web scraper designed to extract and display detailed product and supplier info
 - **Responsive Design**: Optimized for different screen sizes.
 
 ---
+## Screenshots
+
+### **Home Page**
+![Home Page](src/assets/homePage.png)
+
+### **Suppliers Page**
+![Suppliers Page](src/assets/suppliersPage.png)
+
+---
 
 ## Technologies Used
 
